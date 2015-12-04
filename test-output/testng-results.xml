@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="First Suite" duration-ms="66" started-at="2015-12-02T15:03:37Z" finished-at="2015-12-02T15:03:37Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="66" started-at="2015-12-02T15:03:37Z" finished-at="2015-12-02T15:03:37Z">
+      <class name="com.tagrem.crmsales.testngfile.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.tagrem.crmsales.testngfile.NewTest@107d0f44]" name="beforeSuite" is-config="true" duration-ms="3001" started-at="2015-12-02T20:33:34Z" finished-at="2015-12-02T20:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.tagrem.crmsales.testngfile.NewTest@107d0f44]" name="f" duration-ms="10" started-at="2015-12-02T20:33:37Z" finished-at="2015-12-02T20:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.tagrem.crmsales.testngfile.NewTest@107d0f44]" name="afterSuite" is-config="true" duration-ms="1" started-at="2015-12-02T20:33:37Z" finished-at="2015-12-02T20:33:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.tagrem.crmsales.testngfile.NewTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- First Suite -->
+</testng-results>
